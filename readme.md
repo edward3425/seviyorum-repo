@@ -1,1 +1,2 @@
-commit yapmak.
+sonunda yapabildim.
+basardim.
