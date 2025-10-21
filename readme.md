@@ -1,2 +1,1 @@
-sonunda yapabildim.
-basardim.
+blockhain sistem
